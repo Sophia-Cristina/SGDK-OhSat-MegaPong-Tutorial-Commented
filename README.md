@@ -17,6 +17,16 @@ I got the most importat texts (based on my view-point) of the tutorials and comm
 THE ROM FILE IS ON THE FOLDER OUT AS: 'rom.bin'
 
 
+SETUP CODEBLOCK FOR SGDK:
+
+https://www.youtube.com/watch?v=cDEGpLxKDK0
+
+
+FIX CODEBLOCK COMPILER ERROR:
+
+https://www.youtube.com/watch?v=17RazgwROAg
+
+
 #################################################
 
 #################################################
