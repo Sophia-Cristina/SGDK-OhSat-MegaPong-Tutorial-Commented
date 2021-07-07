@@ -14,7 +14,7 @@ https://www.ohsat.com/tutorial/megapong/megapong-1/
 I got the most importat texts (based on my view-point) of the tutorials and commented each line so you can know what the SGDK functions does!
 
 
-THE ROM FILE IS IN THE FOLDER OUT AS: 'rom.bin'
+THE ROM FILE IS IN THE FOLDER "out" AS: 'rom.bin'
 
 
 SETUP CODEBLOCK FOR SGDK:
