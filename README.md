@@ -11,7 +11,7 @@ I followed and wrote in my style the following tutorial by OhSat:
 https://www.ohsat.com/tutorial/megapong/megapong-1/
 
 
-I got the most importat texts (based on my view-point) of the tutorials and commented each line so you can know what the SGDK functions does!
+I got the most important texts (based on my view-point) of the tutorials and commented each line so you can know what the SGDK functions does!
 
 
 THE ROM FILE IS IN THE FOLDER "out" AS: 'rom.bin'
